@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:tag="activity_main_port" >
+
+    <include layout="@layout/backgroundimage" />
+
+    <nl.atcomputing.spacetravelagency.views.SoundButton
+        android:id="@+id/button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/checkout" />
+
+    <FrameLayout
+        android:id="@+id/framelayout_fragment_container"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/button"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>

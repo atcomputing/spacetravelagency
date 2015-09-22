@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Space Travel Agency</string>
+    <string name="checkout">Checkout</string>
+    <string name="no_info_available">No info available</string>
+    <string name="about">About</string>
+    <string name="close">Close</string>
+    <string name="space_travel_agency_brought_to_you_by_at_computing_">Space Travel Agency is a demo app students will create as part of the Android courses brought to you by AT Computing.</string>
+    <string name="the_one_stop_linux_shop">The one-stop-Linux-shop</string>
+    <string name="atcomputingwebsite">http://www.atcomputing.net</string>
+    <string name="enroll">enroll</string>
+    <string name="atcomputingandroidcourseurl">http://www.atcomputing.net/Training/android-development-fundamentals.en.php</string>
+    <string name="total_price">Total price</string>
+    <string name="not_available">not available</string>
+    <string name="calculating_travelling_order">Calculating travelling order</string>
+    <string name="travelling_order_">Travelling order:</string>
+    <string name="Sun">Sun</string>
+    <string name="Sirius">Sirius</string>
+    <string name="Background_image">Background image</string>
+    <string name="order_confirmed">Order confirmed</string>
+    <string name="order_not_confirmed">Order not confirmed</string>
+    <string name="departure_time">Departure time</string>
+    <string name="not_available_yet">Not available yet</string>
+    <string name="confirming_order">Confirming order</string>
+    <string name="google_services_license">Google Services License</string>
+    <string name="image_viewer">Image Viewer</string>
+    <string name="planet_image">Planet image</string>
+    <string name="take_picture">Take picture</string>
+    <string name="book_journey">Book journey</string>
+    <string name="please_select_your_destination_s_">Please select your destination(s)</string>
+    <string name="settings">Settings</string>
+    <string name="invite_a_friend">Invite a friend</string>
+    <string name="invite">Invite</string>
+    <string name="enable_internet_to_book_journey">Enable internet to book journey</string>
+    <string name="invited_friend_">"Invited friend "</string>
+    <string name="confirming_order_please_wait_">Confirming order. Please wait&#8230;</string>
+    <string name="departure_time_changed">Departure time changed</string>
+    <string name="departure_time_changed_to_">"Departure time changed to "</string>
+    <string name="could_not_confirm_order_please_return_to_checkout_and_try_again_">Could not confirm order. Please return to checkout and try again.</string>
+    <string name="enable_internet_to_retrieve_order_information">Enable internet to retrieve order information</string>
+    <string name="picture">Picture</string>
+    <string name="animate_background">Animate background</string>
+    <string name="enable_sound_effects">Enable sound effects</string>
+    <string name="enable_startup_animation">Enable startup animation</string>
+    <string name="beware_this_feature_is_a_battery_drainer">Beware, this feature is a battery drainer</string>
+
+</resources>

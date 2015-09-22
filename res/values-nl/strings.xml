@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Space Travel Agency</string>
+    <string name="checkout">Betalen</string>
+    <string name="no_info_available">Geen informatie beschikbaar</string>
+    <string name="about">Info</string>
+    <string name="close">Sluit</string>
+    <string name="space_travel_agency_brought_to_you_by_at_computing_">Space Travel Agency is een demo app die cursisten tijdens de Android cursussen maken bij AT Computing.</string>
+    <string name="the_one_stop_linux_shop">Dé one-stop-Linux-shop</string>
+    <string name="atcomputingwebsite">http://www.atcomputing.nl</string>
+    <string name="enroll">Schrijf je in</string>
+    <string name="atcomputingandroidcourseurl">http://www.atcomputing.nl/Training/android-development-fundamentals</string>
+    <string name="total_price">Totale prijs</string>
+    <string name="not_available">niet beschikbaar</string>
+    <string name="calculating_travelling_order">Bezig met het berekenen van het reisprogramma</string>
+    <string name="travelling_order_">Reis programma:</string>
+    <string name="Sun">Zon</string>
+    <string name="Sirius">Sirius</string>
+    <string name="Background_image">Achtergrondplaatje</string>
+    <string name="order_confirmed">Reis bevestigd</string>
+    <string name="order_not_confirmed">Reis niet bevestigd</string>
+    <string name="departure_time">Vertrektijd</string>
+    <string name="not_available_yet">Nog niet beschikbaar</string>
+    <string name="confirming_order">Bezig reis te bevestigen</string>
+    <string name="google_services_license">Google Services License</string>
+    <string name="image_viewer">Fotoboek</string>
+    <string name="planet_image">Foto planeet</string>
+    <string name="take_picture">Neem een foto</string>
+    <string name="book_journey">Boek de reis</string>
+    <string name="please_select_your_destination_s_">Selecteer één of meerdere bestemmingen</string>
+    <string name="settings">Instellingen</string>
+    <string name="invite_a_friend">Nodig een vriend uit</string>
+    <string name="invite">Uitnodigen</string>
+    <string name="enable_internet_to_book_journey">Zet internet aan om de reis te boeken</string>
+    <string name="invited_friend_">"Reisgenoot "</string>
+    <string name="confirming_order_please_wait_">Bezig reis te bevestigen. Even geduld alstublieft&#8230;</string>
+    <string name="departure_time_changed">Vertrektijd gewijzigd</string>
+    <string name="departure_time_changed_to_">"Vertrektijd gewijzigd naar "</string>
+    <string name="could_not_confirm_order_please_return_to_checkout_and_try_again_">Kon reis niet bevestigen. Ga terug naar betalen en probeer opnieuw.</string>
+    <string name="enable_internet_to_retrieve_order_information">Zet internet aan om reis te bevestigen.</string>
+	<string name="picture">Foto</string>
+	<string name="animate_background">Animeer de achtergrond</string>
+    <string name="enable_sound_effects">Gebruik geluidseffecten</string>
+    <string name="enable_startup_animation">Toon opstart animatie</string>
+    <string name="beware_this_feature_is_a_battery_drainer">Pas op, dit is een notoire batterijvreter</string>
+</resources>

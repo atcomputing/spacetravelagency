@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference 
+        android:key="pref_animateBackground"
+        android:title="@string/animate_background"
+        android:summary="@string/beware_this_feature_is_a_battery_drainer"
+        android:defaultValue="false"/>
+    <CheckBoxPreference 
+        android:key="pref_enableSounds"
+        android:title="@string/enable_sound_effects"
+        android:defaultValue="false"/>
+    <CheckBoxPreference 
+        android:key="pref_showSplashscreenAnimation"
+        android:title="@string/enable_startup_animation"
+        android:defaultValue="false"/>
+</PreferenceScreen>

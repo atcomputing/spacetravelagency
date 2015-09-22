@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="sirius_planets_icons">
+		<item>@drawable/sirius_c</item>
+		<item>@drawable/xylanthia</item>
+	</array>
+	<string-array name="sirius_planets_names">
+		<item>Sirius C</item>
+		<item>Xylanthia</item>
+	</string-array>
+	<string-array name="sirius_planets_info">
+		<item>
+			Black dwarf at the center of the system.
+		</item>
+		<item>
+		    Home of the Xylanthians. A peaceful race with blue colored skin.
+		</item>
+	</string-array>
+	<array name="sirius_planets_distance_from_center">
+		<item>169600000</item>
+		<item>128200000</item>
+	</array>
+	<array name="sirius_planets_price">
+		<item>20001330</item>
+		<item>63699000</item>
+	</array>
+</resources>

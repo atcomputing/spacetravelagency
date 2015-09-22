@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<array name="sun_planets_icons">
+		<item>@drawable/sun</item>
+		<item>@drawable/earth</item>
+		<item>@drawable/moon</item>
+		<item>@drawable/venus</item>
+		<item>@drawable/mars</item>
+		<item>@drawable/jupiter</item>
+		<item>@drawable/pluto</item>
+		<item>@drawable/saturn</item>
+		<item>@drawable/mercury</item>
+		<item>@drawable/neptune</item>
+		<item>@drawable/uranus</item>
+	</array>
+
+	<string-array name="sun_planets_names">
+		<item>Zon</item>
+		<item>Aarde</item>
+		<item>Maan</item>
+		<item>Venus</item>
+		<item>Mars</item>
+		<item>Jupiter</item>
+		<item>Pluto</item>
+		<item>Saturnus</item>
+		<item>Mercurius</item>
+		<item>Neptunus</item>
+		<item>Uranus</item>
+	</string-array>
+	<string-array name="sun_planets_info">
+		<item> De zon is de ster in het midden van het Zonnestelsel. Het is
+			bijna perfect sferisch en bestaat uit heet plasma verweven met
+			magnetische velden.
+			Ongeveer driekwart van de massa van de zon
+			bestaat uit waterstof,
+			terwijl de rest voor het grootste deel uit
+			helium bestaat.
+			De zon is ongeveer 4,6 miljard jaar geleden ontstaan
+			uit een grote
+			moleculaire waterstofnevel dat door z\'n eigen gravitatie
+			is samen gaan trekken. Afhankelijk van
+			lokale dichtheidsverschillen
+			zullen de meeste deeltjes zich in één of
+			meerdere centrale punten
+			concentreren. De Zon ontstond uit de
+			middelste van deze verdichtingen
+			in het zwaartepunt van de nevel.
+			De zon is geclassificeerd als een
+			type G hoofdreeksster (G2V) op
+			basis van z\'n spectrale klasse en het is
+			informeel aangewezen als gele dwerg omdat de zichtbare straling het
+			meest
+			intens is in het geelgroene gedeelte van het spectrum.
+			De zon
+			werd voorheen door astronomen gezien als een kleine en relatief
+			onbelangrijke ster. Nu wordt gesteld dat de zon helderder is dan
+			ongeveer 85% van de
+			sterren in de Melkweg.
+		</item>
+		<item>De aarde is de derde planeet van de Zon en de dichtste en de op
+			vijf na grootste van de acht planeten in het zonnestelsel.
+			Het is ook de grootste van de vier aardse planeten in het zonnestelsel.
+			Het wordt soms aangeduid als de wereld, de blauwe planeet, of door
+			haar latijnse naam, Terra.
+			De aarde vormde zich ongeveer 4.54 miljard jaar geleden door aanwas van
+			de
+			zonnenevel. Het leven verscheen op zijn oppervlakte binnen een miljard jaar.
+			De planeet huisvest een miljoenen soorten organismen, inclusief de
+			mens.
+			De aarde\'s biosfeer heeft de atmosfeer en andere
+			abiotische omstandigheden beduidend veranderd, waardoor leven mogelijk is.
+			De vorming van de ozonlaag die tesamen met de aarde\'s magnetisch veld,
+			schadelijke zonnestraling tegenhoudt, zijn essentieel om leven op
+			aarde mogelijk te maken.
+			De planeet zal naar verwachting leven kunnen ondersteunen voor de
+			komende 500.000.000-2300.000.000 jaar.
+		</item>
+		<item> De Maan is de enige natuurlijke satelliet van de Aarde en de
+			vijfde grootste maan in het Zonnestelsel.
+			Het is de grootste natuurlijke satelliet van een planeet in het
+			zonnestelsel in verhouding tot de omvang van de primaire planeet.
+			De Maan roteert synchroon met de aarde en laat naar de aarde
+			altijd dezelfde kant zien.
+			Het is op aarde het helderste object aan de hemel na de zon.
+			Het oppervlak van de maan is eigenlijk heel donker, met een reflectie
+			vergelijkbaar met dat van steenkool.
+			Zijn bekendheid aan de hemel en zijn regelmatige cyclus van fasen is al
+			sinds mensenheugenis een belangrijke invloed op taal, kalenders,
+			kunst en mythologie.
+			De gravitationele invloed van de maan produceert de oceaan getijden en
+			de minuut verlenging van de dag.
+			De huidige afstand van de maan is ongeveer dertig keer de diameter van
+			de aarde en zorgt ervoor dat de maan,
+			gezien vanaf de aarde, visueel bijna dezelfde grootte heeft als de zon.
+			De maan wordt verondersteld bijna 4,5 miljard jaar geleden te zijn
+			ontstaan.
+			Hoewel er meerdere zijn hypothesen zijn, is de huidige, meest geaccepteerde
+			verklaring dat
+			de maan gevormd is uit het puin dat is overgebleven na een gigantische
+			botsing tussen de aarde en een ander
+			lichaam ter grootte van de planeet Mars.
+		</item>
+		<item>Venus is de tweede planeet vanaf de zon en draait om de zon in
+			224.7 aardse dagen. De planeet is vernoemd naar Venus, de Romeinse
+			godin van de
+			liefde en schoonheid. Na de maan, is het het helderste natuurlijke object
+			in de nachtelijke hemel. Venus bereikt haar maximale helderheid kort
+			voor zonsopgang of kort na zonsondergang, het wordt daarom ook wel de morgenster of avondster genoemd.
+			Venus is geclassificeerd als aardse planeet en het wordt soms als Aarde\'s
+			"zuster planeet" aangeduidt.
+			Dit als gevolg van de vergelijkbare grootte, de zwaartekracht, en
+			samenstelling.
+			Venus is bedekt met een ondoorzichtige laag van zeer reflecterende wolken
+			van zwavelzuur.
+			Deze verhinderen dat de oppervlakten van Venus zichtbaar zijn vanuit de
+			ruimte in zichtbaar licht.
+			Venus heeft de dichtste atmosfeer van alle aardse planeten in het
+			zonnestelsel, voornamelijk bestaande uit
+			kooldioxide. De atmosferische druk aan het oppervlak van de planeet is
+			92 keer die van de Aarde. Het wordt verondersteld dat in het verleden
+			op Venus oceanen voorkwamen.
+			Maar deze zijn vanwege een op hol geslagen broeikaseffect volledig
+			verdampt.
+			Het waterstof is, vanwege het ontbreken van een planetair magnetisch
+			veld,
+			in de interplanetaire ruimte opgegaan.
+			Het oppervlak van Venus is een droge woestijnachtige omgeving met vele
+			plaatachtige
+			rotsen, waar periodiek nieuwe bijkomen door vulkanische activiteiten.
+		</item>
+		<item>Mars is de vierde planeet van de Zon in het Zonnestelsel.
+			Vernoemd naar de Romeinse god van de oorlog, Mars. Mars wordt vaak
+			omschreven als de
+			\'Rode Planeet\', omdat de ijzeroxide aanwezig op het oppervlak het een
+			roodachtige verschijning geeft.
+			Mars is een aardse planeet met een dunne atmosfeer. De oppervlakte
+			herinnert aan zowel de inslag
+			kraters van de maan en de vulkanen, valleien, woestijnen en polaire
+			ijskappen van de aarde. De rotatieperiode en seizoensgebonden cycli
+			van Mars
+			zijn eveneens vergelijkbaar met die van de aarde, evenals het kantelen
+			dat produceert
+			de seizoenen. Mars is de plaats van Olympus Mons, de hoogste bekende
+			berg in het zonnestelsel, en van Valles Marineris, het grootste
+			ravijn.
+			Het gladde Borealis stroomgebied in het noordelijk halfrond
+			dekt 40% van de planeet.</item>
+		<item>Jupiter is de vijfde planeet vanaf de zon en de grootste planeet
+binnen het zonnestelsel. Het is een gasreus met een massa die een duizendste
+is dan dat van de zon, maar is tweeënhalf keer de massa van alle andere
+planeten in ons zonnestelsel tesamen. Jupiter is geclassificeerd als een gasreus 
+samen met Saturnus, Uranus en Neptunus.
+De planeet werd gekend door astronomen van de oudheid en werd geassocieerd
+met de mythologie en religieuze overtuigingen van vele culturen. De Romeinen
+hebben de planeet vernoemd naar de Romeinse god Jupiter. Wanneer bekeken van de Aarde
+kan Jupiter een schijnbare magnitude van -2.94 bereiken. Hierdoor is het op
+het derde helderste object aan de nachtelijke hemel, na de Maan
+en Venus.
+		</item>
+		<item>Pluto, formeel aangewezen als 134340 Pluto, is een dwergplaneet in de Kuipergordel.
+Het is de op een na meest massieve dwergplaneet in het zonnestelsel (na Eris) en de tiende -meest- massief lichaam waargenomen direct een baan om de
+Zon. Net als andere Kuipergordel objecten is Pluto voornamelijk samengesteld uit
+rots en ijs en is relatief klein, ongeveer een zesde de massa van de Maan en een derde van het volume. 
+Het heeft een excentrieke omwenteling om de zon dat loopt van 30 tot 49 AU ( 4,4-7400000000
+km ).
+Dit betekent dat Pluto periodiek dichter bij de Zon komt dan Neptunus. 
+Pluto is ontdekt in 1930 en was oorspronkelijk geklassificeerd als de negende planeet van de Zon. 
+Echter , haar status als een belangrijke planeet viel in twijfel na verdere studie van het zonnestelsel
+in de daaropvolgende 75 jaar. Te beginnen in 1977 met de ontdekking van planetoïde 2060 Chiron en tal van ijzige objecten
+vergelijkbaar met Pluto. De meest opvallende van deze is het obect Eris dat is ontdekt in 2005. 
+Eris is 27% massiever dan Pluto. Met de wetenschap dat Pluto slechts een van de vele grote ijzige lichamen in
+het buitenste van ons zonnestelsel is is de Internationale Astronomische Unie ( IAU ) gevraagd formeel
+te definiëren wat het een "planeet" is. De definitie die zij gaven sloot Pluto uit als planeet en
+werd heringedeeld als een lid van de nieuwe categorie "dwergplaneet".
+		</item>
+		<item>Saturnus is de zesde planeet vanaf de zon en de tweede grootste
+planeet in het zonnestelsel. Saturnus is vernoemd naar de Romeinse god
+Saturnus, het astronomische symbool (♄) vertegenwoordigt de god\'s sikkel.
+Saturnus is een gasreus met een gemiddelde straal van ongeveer negen keer dat van
+de Aarde. Terwijl het slechts een achtste van de gemiddelde dichtheid van de aarde heeft.
+Saturnus is met zijn grotere volume iets meer dan 95 keer zwaarder dan de aarde.
+Saturnus\'s bestaat waarschijnlijk ​​uit een kern van ijzer, nikkel en rots (silicium en zuurstofverbindingen), omringd door een diepe laag van metallisch waterstof, 
+een tussenlaag van vloeibare waterstof en vloeibaar helium en een buitenste gasvormige laag. 
+Er wordt aangenomen dat de elektrische stroom binnen de metallische waterstoflaag de aanleiding geeft 
+tot het planetarisch magnetisch veld. Deze is iets zwakker dan die van de aarde en
+ongeveer een twintigste de sterkte van die van Jupiter. De buitenste atmosfeer
+is algemeen flauw en bevat weinig contrast. Windsnelheden op Saturnus kunnen wel 1.800 km/u
+bereiken. Saturnus heeft een ringsysteem dat bestaat uit negen opeenvolgende hoofdringen
+en drie discontinue bogen. De ringen bestaan hoofdzakelijk uit ijsdeeltjes met een
+kleine hoeveelheid rotsachtige puin en stof. Saturnus heeft tweeënzestig bekende manen
+waarvan er drieënvijftig officieel zijn benoemd. Dit geldt niet voor
+de honderden "maantjes" in de ringen. Titan, Saturnus grootste maan 
+en de tweede grootste maan van het zonnestelsel, is groter dan de planeet Mercurius 
+en is de enige maan in het zonnestelsel dat een substantiële atmosfeer heeft.
+		</item>
+		<item>Mercurius is de binnenste en kleinste planeet in het zonnestelsel en draait in 
+		    een baan om de zon in 87.969 aardse dagen. De baan
+Van alle planeten in ons zonnestelsel beschrijft Mercurius de baan met de grootste excentriciteit (e=0,21). De afstand tot de zon schommelt zo tussen 46 en 70 miljoen kilometer. De verhouding in duur tussen jaar en dag bedraagt als gevolg van spin-baanresonantie 3:2, en blijft stabiel door de excentriciteit van de baan van Mercurius: tijdens perihelium, wanneer de getijdenwerking van de zon het sterkst is, staat de zon vrijwel stil aan de Mercuriushemel.
+Mercurius is, wanneer bekeken vanaf de aarde, helder, maar is niet 
+gemakkelijk te zien aangezien de grootste hoek tussen de zon slechts 28,3° is. 
+Mercurius is normaal niet te zien door de schittering van de zon. Hierdoor 
+is Mercurius alleen te zien tijdens een zonsverduistering of gedurende korte intervallen 
+voor zonsopgang of na zonsondergang.
+Mercurius kent enorme temperatuurverschillen tussen dag en nacht. Overdag is de temperatuur 430 graden en `s nachts -180 graden. De oorzaak hiervan ligt in de rotatietijd: een aswenteling duurt 58 aardse dagen (2/3 van de omlooptijd). In combinatie met de omloop om de zon in 88 dagen duurt één dag op Mercurius ruim 176 aardse dagen. Vroeger dacht men dat de rotatieperiode ook 88 dagen bedroeg. Het verschil tussen de gemiddelde dag- en nachttemperatuur bedraagt zo\'n 500 °C. Ter vergelijking: op aarde schommelt dat tussen de 5 en 20 °C. De hoogte van de maximumtemperatuur komt door de relatief korte afstand tot de zon en de grote verschillen door het (vrijwel) ontbreken van een atmosfeer. Het zonlicht op Mercurius\' oppervlak is ongeveer negen keer zo intens als op aarde omdat Mercurius drie keer zo dicht bij de zon staat.
+		</item>
+		<item>Neptunus is de achtste en verste planeet vanaf de Zon in het
+zonnestelsel en vernoemd naar de Romeinse god van de zee. Het is de
+vierde grootste planeet in diameter en de derde grootste qua massa.
+Neptunus is 17 keer zwaarder dan de Aarde en is iets massiever
+dan Uranus, die 15 keer zwaarder is dan de aarde. 
+Neptunus draait om de zon op een afstand van gemiddeld 30.1 AU , ongeveer 30 keer de afstand van de aarde tot de zon. 
+Z\'n astronomische symbool is ♆, een gestileerde versie van de drietand van de god Neptunus. 
+Neptunus is vergelijkbaar in samenstelling met Uranus, en beide hebben
+composities die afwijken van die van de grotere gasreuzen, Jupiter en Saturnus. 
+De atmosfeer van Neptunus bestaat voornamelijk uit waterstof
+en helium. Het bevat ook sporen van koolwaterstoffen en eventueel stikstof
+en "ijs" zoals water, ammoniak en methaan.
+Het oppervlak van Neptunus bestaat voornamelijk uit ijs en gesteente.
+Sporen van methaan in de ultraperifere gebieden zijn gedeeltelijk verantwoordelijk voor de
+planeet z\'n blauwe uiterlijk.
+		</item>
+		<item>Uranus is de zevende planeet vanaf de Zon. Het heeft de
+derde grootste planetarische straal en de vierde - grootste planetaire massa in
+het zonnestelsel. Het is vernoemd naar de oude Griekse god van de
+hemel Uranus ( Oudgrieks : Οὐρανός ),  de vader van Cronus (Saturnus)
+en grootvader van Zeus (Jupiter). Hoewel het zichtbaar is met het blote
+oog, net zoals de vijf klassieke planeten, was het nooit erkend als een
+planeet door oude waarnemers vanwege z\'n zwakke helderheid en langzame baan.
+Sir William Herschel kondigde de ontdekking aan op 13 maart 1781 waarmee
+de grenzen van het zonnestelsel voor de eerste keer
+in de moderne geschiedenis werden verlegd. 
+Uranus is ook de eerste planeet ontdekt met een telescoop.
+Uranus is vergelijkbaar in samenstelling met Neptunus en beide 
+verschillen in chemische samenstelling van de grotere gasreuzen, Jupiter
+en Saturnus.
+Astronomen plaatsen ze soms in een aparte categorie genaamd "ijsreuzen".
+De atmosfeer van Uranus, hoewel vergelijkbaar met Jupiter
+en Saturnus, bevat meer "ijs" zoals water, ammoniak en methaan, tesamen met
+sporen van koolwaterstoffen . Het heeft de koudste planetaire atmosfeer in het zonnestelsel 
+met een minimale temperatuur van 49 K ( -224 ° C ). Het heeft een
+complexe gelaagde wolk structuur, waarbij men denkt dat de laagste wolken bestaan uit water en de 
+hogere wolken uit methaan bestaand. 
+Het oppervlak van Uranus is hoofdzakelijk samengesteld uit ijs en rots .
+		</item>
+	</string-array>
+
+	<array name="sun_planets_distance_from_center">
+		<item>0</item>
+		<item>149600000</item>
+		<item>149900000</item>
+		<item>108200000</item>
+		<item>227940000</item>
+		<item>778330000</item>
+		<item>4437000000</item>
+		<item>1429400000</item>
+		<item>57910000</item>
+		<item>4504000000</item>
+		<item>2870990000</item>
+	</array>
+	<array name="sun_planets_price">
+		<item>5105200</item>
+		<item>20000</item>
+		<item>150000</item>
+		<item>210000</item>
+		<item>4201000</item>
+		<item>10000</item>
+		<item>32201000</item>
+		<item>62201000</item>
+		<item>4400311</item>
+		<item>2400011</item>
+		<item>44000311</item>
+	</array>
+
+</resources>

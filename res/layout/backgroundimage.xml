@@ -1,0 +1,9 @@
+ <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/background_image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/Background_image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/milky_way"
+        />

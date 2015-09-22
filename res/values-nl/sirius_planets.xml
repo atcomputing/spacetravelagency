@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="sirius_planets_icons">
+		<item>@drawable/sirius_c</item>
+		<item>@drawable/xylanthia</item>
+	</array>
+	<string-array name="sirius_planets_names">
+		<item>Sirius C</item>
+		<item>Xylanthia</item>
+	</string-array>
+	<string-array name="sirius_planets_info">
+		<item>
+			Zwarte dwerg in het middelpunt van het zonnestelsel.
+		</item>
+		<item>
+		    Thuishaven van de Xylanthianen. Een vredig wezen met een blauw getinte huid.
+		</item>
+	</string-array>
+	<array name="sirius_planets_distance_from_center">
+		<item>169600000</item>
+		<item>128200000</item>
+	</array>
+	<array name="sirius_planets_price">
+		<item>20001330</item>
+		<item>63699000</item>
+	</array>
+</resources>

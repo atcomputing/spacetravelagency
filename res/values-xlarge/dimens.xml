@@ -1,0 +1,9 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for xlarge devices (e.g. 10" tablets).
+    -->
+   <dimen name="default_fontsize">22.5dp</dimen>
+	<dimen name="planet_image_size">75dp</dimen>
+</resources>
