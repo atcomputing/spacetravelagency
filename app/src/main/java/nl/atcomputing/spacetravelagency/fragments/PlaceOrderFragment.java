@@ -48,6 +48,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.actionbarsherlock.app.SherlockFragment;
+import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -108,10 +109,9 @@ public class PlaceOrderFragment extends SherlockFragment implements OrderListene
 					savedInstanceState.getDouble(BUNDLE_KEY_POSITION_LNG));
 		}
 
-		try {
-			MapsInitializer.initialize(activity);
+		if( MapsInitializer.initialize(activity) == ConnectionResult.SUCCESS) {
 			this.mapInitialized = true;
-		} catch (GooglePlayServicesNotAvailableException e) {
+		} else {
 			this.mapInitialized = false;
 		}
 
